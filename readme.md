@@ -54,9 +54,11 @@
 ```
 
 > // TODO: Customize Storage configuration
+
 > projectId : '<your_project_id>',
 
 > // TODO: Add the name of the bucket used
+
 > const bucketName = '<your_GCS_bucket_name>'
 
 ------
@@ -91,12 +93,13 @@
 ```
 
 > // TODO: Customize database configuration
-> const connection = mysql. createConnection({
->     host: 'public_ip_sql_your_instance',
->     user: 'root',
->     database: 'your_database_name',
->     password: 'your_sql_password'
-> })
+ 
+>     const connection = mysql. createConnection({
+>           host: 'public_ip_sql_your_instance',
+>           user: 'root',
+>           database: 'your_database_name',
+>           password: 'your_sql_password'
+>     })
 
 ------
 **Create Cloud SQL**
