@@ -164,7 +164,8 @@
 
 ```sh
 > back to cloud shell editor -> open terminal -> cd submission2-Project-Money-Tracker-App/ -> cd back-end -> gcloud app deploy and click 'Y'
-> gcloud app browse -s back-end (this is a back-end url)
+> terminal -> _gcloud app browse -s back-end_ (check next step on your terminal)
+> copy  back-end url
 ```
 
 
@@ -188,7 +189,8 @@
 
 ```sh
 > back to cloud shell editor -> open terminal -> cd submission2-Project-Money-Tracker-App/ -> cd front-end -> gcloud app deploy and click 'Y'
-> terminal -> gcloud app browse -s front-end
+> terminal -> _gcloud app browse -s front-end_ (check next step on your terminal)
+> copy front-end url and replace
 ```
 
 ```sh
@@ -202,9 +204,8 @@
 
 ```sh
 > back to cloud shell editor -> open terminal -> cd submission2-Project-Money-Tracker-App/ -> cd front-end -> gcloud app deploy and click 'Y'
-> terminal -> gcloud app browse -s front-end
+> terminal -> _gcloud app browse -s front-end_ (check next step on your terminal)
 > copy link -> open link in your browser -> check it is running perfectly ?
-> check 
 ```
 
 
